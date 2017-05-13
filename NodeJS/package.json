@@ -1,0 +1,14 @@
+{
+  "name": "sqlconn",
+  "version": "1.0.0",
+  "description": "Simple MSSQL connectivity tester",
+  "dependencies": {
+    "mssql": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
